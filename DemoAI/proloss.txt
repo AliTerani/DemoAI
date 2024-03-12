@@ -1,0 +1,372 @@
+{
+  "Id": "9242dd77-41c3-467e-a19a-9c02ae2ae264",
+  "Status": "OK",
+  "ProviderName": "Myapp",
+  "DateTimeUTC": "\/Date(1710233871894)\/",
+  "Reports": [
+    {
+      "ReportID": "ProfitAndLoss",
+      "ReportName": "Profit and Loss",
+      "ReportType": "ProfitAndLoss",
+      "ReportTitles": [
+        "Profit & Loss",
+        "Naya Foods",
+        "1 March 2024 to 31 March 2024"
+      ],
+      "ReportDate": "12 March 2024",
+      "UpdatedDateUTC": "\/Date(1710233871894)\/",
+      "Fields": [],
+      "Rows": [
+        {
+          "RowType": "Header",
+          "Cells": [
+            {
+              "Value": ""
+            },
+            {
+              "Value": "31 Mar 24"
+            }
+          ]
+        },
+        {
+          "RowType": "Section",
+          "Title": "Income",
+          "Rows": [
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "B2B Sales",
+                  "Attributes": [
+                    {
+                      "Value": "80ee69ca-c2a7-445a-867f-0845538699bb",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "1639.40",
+                  "Attributes": [
+                    {
+                      "Value": "80ee69ca-c2a7-445a-867f-0845538699bb",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "B2C Sales",
+                  "Attributes": [
+                    {
+                      "Value": "6ef90d0d-611c-4746-9c1a-f7d7ca06b1a9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "228.79",
+                  "Attributes": [
+                    {
+                      "Value": "6ef90d0d-611c-4746-9c1a-f7d7ca06b1a9",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Delivery Income",
+                  "Attributes": [
+                    {
+                      "Value": "123d1cd0-f242-4851-8e9b-b9ce2cc36ff8",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "56.15",
+                  "Attributes": [
+                    {
+                      "Value": "123d1cd0-f242-4851-8e9b-b9ce2cc36ff8",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Discount on Sales",
+                  "Attributes": [
+                    {
+                      "Value": "939cd0e2-b071-4ea6-aa60-7fb626b832a9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "-179.89",
+                  "Attributes": [
+                    {
+                      "Value": "939cd0e2-b071-4ea6-aa60-7fb626b832a9",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "SummaryRow",
+              "Cells": [
+                {
+                  "Value": "Total Income"
+                },
+                {
+                  "Value": "1744.45"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "RowType": "Section",
+          "Title": "Less Cost of Sales",
+          "Rows": [
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Cost of Goods Sold",
+                  "Attributes": [
+                    {
+                      "Value": "e28a0f94-e411-4219-a424-86a7540ac9eb",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "676.10",
+                  "Attributes": [
+                    {
+                      "Value": "e28a0f94-e411-4219-a424-86a7540ac9eb",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "SummaryRow",
+              "Cells": [
+                {
+                  "Value": "Total Cost of Sales"
+                },
+                {
+                  "Value": "676.10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "RowType": "Section",
+          "Title": "",
+          "Rows": [
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Gross Profit"
+                },
+                {
+                  "Value": "1068.35"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "RowType": "Section",
+          "Title": "Less Operating Expenses",
+          "Rows": [
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Consulting & Accounting",
+                  "Attributes": [
+                    {
+                      "Value": "3083e7a0-e13a-4d33-88f1-d37b380196b1",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "175.00",
+                  "Attributes": [
+                    {
+                      "Value": "3083e7a0-e13a-4d33-88f1-d37b380196b1",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Event Expenses",
+                  "Attributes": [
+                    {
+                      "Value": "d9d6fb2b-88be-42dc-a8db-90704759b57b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "15.00",
+                  "Attributes": [
+                    {
+                      "Value": "d9d6fb2b-88be-42dc-a8db-90704759b57b",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Hesabe Commission",
+                  "Attributes": [
+                    {
+                      "Value": "a9d00df3-3031-4f4a-ae37-7e3d0f17adc4",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "3.15",
+                  "Attributes": [
+                    {
+                      "Value": "a9d00df3-3031-4f4a-ae37-7e3d0f17adc4",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Marketing and Advertising",
+                  "Attributes": [
+                    {
+                      "Value": "26763ce0-a84f-4df4-83ee-e2f5c884fb2b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "453.00",
+                  "Attributes": [
+                    {
+                      "Value": "26763ce0-a84f-4df4-83ee-e2f5c884fb2b",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Printing & Stationery",
+                  "Attributes": [
+                    {
+                      "Value": "7ebc4171-7003-44c6-bf8d-d581582589e6",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "406.00",
+                  "Attributes": [
+                    {
+                      "Value": "7ebc4171-7003-44c6-bf8d-d581582589e6",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Tap Commission",
+                  "Attributes": [
+                    {
+                      "Value": "1f1d3daf-7159-4c08-84c2-6c8247128b7b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "5.66",
+                  "Attributes": [
+                    {
+                      "Value": "1f1d3daf-7159-4c08-84c2-6c8247128b7b",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "SummaryRow",
+              "Cells": [
+                {
+                  "Value": "Total Operating Expenses"
+                },
+                {
+                  "Value": "1057.81"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "RowType": "Section",
+          "Title": "",
+          "Rows": [
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Net Profit"
+                },
+                {
+                  "Value": "10.54"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
